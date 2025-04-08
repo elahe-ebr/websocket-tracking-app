@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Websocket</string>
+    <string name="response_received_from_web_socket">Response received from web socket:</string>
+    <string name="enter_text">Enter text</string>
+    <string name="send_text">Send text</string>
+\    <string name="enable_location_service_and_send_to_websocket">Enable location service and send to websocket</string>
+    <string name="stop_location_service">Stop location service</string>
+    <string name="title">Send text or your location to websocket and receive a response from it.</string>
+</resources>
