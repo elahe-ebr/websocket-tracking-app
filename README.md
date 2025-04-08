@@ -19,7 +19,6 @@ A simple Android application that uses **WebSocket** to send **device location (
 ## ⚙️ Tech Stack
 
 - **Language:** Kotlin
-- **UI:** DataBinding
 - **Architecture:** MVVM + Hilt (Dependency Injection)
 - **WebSocket:** [OkHttp WebSocket](https://square.github.io/okhttp/)
 - **Concurrency:** Kotlin Coroutines + StateFlow
